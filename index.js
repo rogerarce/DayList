@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import DayList from './src/'
 
-AppRegistry.registerComponent('daylist', () => App);
+AppRegistry.registerComponent('daylist', () => DayList);
