@@ -1,0 +1,3 @@
+rootProject.name = 'daylist'
+
+include ':app'
